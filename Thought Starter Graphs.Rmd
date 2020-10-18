@@ -1,0 +1,97 @@
+---
+title: "Thought Starter Visuals"
+output: html_document
+---
+Assignment04 Charts
+================
+
+## Variable Width Column Chart
+
+# Using mekko package
+
+1.  Load package
+2.  Create data (from cereal dataset)
+3.  Plot <https://rdrr.io/cran/mekko/man/barmekko.html>
+4.  Final edits -remove x ticks and titles with element\_blank
+    (<https://stackoverflow.com/questions/35090883/remove-all-of-x-axis-labels-in-ggplot>)
+  - add titles
+  - change font to Times New Roman
+```{r}
+library(mekko)
+library(ggplot2)
+
+nutritioninfo <- data.frame(
+  brand = c('All_Bran', 'Corn_Flakes', 'Cheerios', 'Fruit_Loops', 'Crispix'),
+  calories = c(70, 100, 110, 110, 110),
+  rating = c(59.4, 45.9, 50.8, 32.2, 46.9)
+)
+
+barmekko(nutritioninfo, brand, calories, rating) +
+  theme(axis.ticks.x = element_blank(), axis.text.x = element_blank()) + labs(x = "Consumer Rating", y = "Calories per Serving", title = "Calories and Rating for Cereal Brands", caption = "by: Genna Campain") + theme(text= element_text(family = "Times New Roman"))
+```
+
+## Bar Chart
+
+Use stat = identity to indicate that I will be giving the values for the
+y axis (otherwise R wants to calculate them) Rotate whole chart
+
+```{r}
+library(ggplot2)
+
+sugarsinfo <- data.frame(
+  brand = c('All_Bran', 'Corn_Flakes', 'Cheerios', 'Fruit_Loops', 'Crispix'),
+  sugars = c(5, 2, 1, 13, 3)
+)
+
+p <-ggplot(data = sugarsinfo, mapping = aes(x = brand, y = sugars, fill = brand))
+p + geom_bar(stat = 'identity') +
+  labs(x = "Brand Name", y = "Grams of Sugar", title = "Grams of Sugar In Cereal Brands") + 
+  theme(text = element_text(family = "Times New Roman")) +
+  coord_flip()
+```
+
+## Column Chart
+
+Need to change data format to long using tidyr package Use position
+argument to create bars that are next to each other
+
+```{r}
+library(ggplot2)
+
+nutrition <- data.frame(
+  newbrand = c("All_Bran", "Cheerios", "Fruit_Loops"),
+  sugars = c(5, 1, 13),
+  protein = c(4, 6, 2),
+  fat = c(1, 2, 2),
+  fiber = c(9, 2, 1)
+)
+
+library(tidyr)
+nutrition_long <- gather(nutrition, variable, nutrients, -newbrand )
+
+p <- ggplot(nutrition_long, mapping = aes(x = newbrand, y = nutrients, fill = variable))
+p + geom_col(position = position_dodge()) +
+  labs(x = "Brand Name", y = "Nutrient Values", title = "Nutrition Information for Various Cereal Brands") +
+  theme(text = element_text(family = "Times New Roman"))
+```
+
+## Table (with Embedded Charts)
+
+Use formattable package to make more create tables
+(<https://renkun-ken.github.io/formattable/>)
+
+```{r}
+library(formattable)
+cereal <- read.csv("~/Downloads/cereal.csv")
+
+df <- data.frame(
+  name = cereal$name,
+  calories = cereal$calories,
+  protein = cereal$protein,
+  fat = cereal$fat,
+  fiber = cereal$fiber,
+  rating = cereal$rating
+)
+
+formattable(df, list(area(col = c(fiber))~normalize_bar("pink", 0.2)))
+```
