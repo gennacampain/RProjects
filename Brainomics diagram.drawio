@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T19:21:40.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2kjxG4nPjKl4hyPb2PGL" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T19:30:04.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xMqXTduTumOrbKocXIj2" version="20.8.15" type="github">
   <diagram name="Page-1" id="icjVqxEl6QE1_D_8Zwpy">
     <mxGraphModel dx="1194" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,11 +106,17 @@
         <mxCell id="mWjNH0HdIJz2-ww5PxK--35" value="Brain Health" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="320" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mWjNH0HdIJz2-ww5PxK--45" value="Increased &lt;br&gt;productivity at work &lt;br&gt;or other pursuits" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mWjNH0HdIJz2-ww5PxK--45" value="Increased &lt;br&gt;and prolonged&lt;br&gt;productivity at work &lt;br&gt;or other &lt;br&gt;pursuits" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="410" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mWjNH0HdIJz2-ww5PxK--49" value="Increased &lt;br&gt;productivity at work &lt;br&gt;or other pursuits" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="410" width="130" height="130" as="geometry" />
+        <mxCell id="mWjNH0HdIJz2-ww5PxK--50" value="Lower &lt;br&gt;healthcare and &lt;br&gt;societal costs related &lt;br&gt;to treatment &lt;br&gt;of disorder" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="410" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mWjNH0HdIJz2-ww5PxK--51" value="Higher levels of happiness and well-being" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mWjNH0HdIJz2-ww5PxK--52" value="Greater &lt;br&gt;&amp;nbsp;resilience in the &lt;br&gt;face of disaster and&lt;br&gt;change" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
