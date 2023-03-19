@@ -1,29 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T23:10:47.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Ws2ChdSD5N-SHylTmml1" version="21.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T16:58:03.459Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QTmRtpBYO0Sd3WQVNZTM" version="21.0.8" type="github">
   <diagram name="Page-1" id="UukN6F3pWWEp7h4scgCb">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="e19idQxXRR9z8TGev-1b-1" value="Alzheimer&#39;s disease" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="90" width="80" height="80" as="geometry" />
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-4" value="Depression" style="ellipse;whiteSpace=wrap;html=1;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="240.85" width="140" height="102.5" as="geometry" />
         </mxCell>
-        <mxCell id="e19idQxXRR9z8TGev-1b-2" value="Depression" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="690" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;rotation=90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="503.13" y="56.88" width="132.5" height="218.75" as="geometry" />
         </mxCell>
-        <mxCell id="e19idQxXRR9z8TGev-1b-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="e19idQxXRR9z8TGev-1b-2" target="e19idQxXRR9z8TGev-1b-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="340" as="sourcePoint" />
-            <mxPoint x="450" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="130" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-10" value="Depression is a modifiable risk factor for Alzheimer&#39;s disease" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="493.76" y="60" width="151.25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="e19idQxXRR9z8TGev-1b-6" value="Smoking" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-11" value="Depression is commonly observed as a symptom in early stages of Alzheimer&#39;s disease" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="136.25" width="151.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e19idQxXRR9z8TGev-1b-8" value="Substance abuse disorder" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="340" width="80" height="80" as="geometry" />
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-12" value="Alzheimer&#39;s disease" style="ellipse;whiteSpace=wrap;html=1;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="78.75" width="140" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-13" value="Smoking" style="ellipse;whiteSpace=wrap;html=1;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="450" width="140" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-14" value="Heart failure" style="ellipse;whiteSpace=wrap;html=1;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="238.75" width="140" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;rotation=-45;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="432.17" y="370.64" width="190.33" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-18" value="Mental illnesses (like depression) are associated with a higher prevalence of smoking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="538.75" y="411.25" width="151.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;rotation=45;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="147.87" y="370.52" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-20" value="Chronic smokers have higher rates of heart failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="151.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;rotation=90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="286.65" y="275.63" width="258.48" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-22" value="Elevated rates of Alzheimer&#39;s disease have been observed among chronic smokers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="442.85" y="170" width="147.15" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;rotation=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="207.15" y="240.85" width="365.7" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-24" value="Depression and anxiety disorders are associated with greater development and progression of heart failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;rotation=-35;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="159.19" y="156.97" width="157.87" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fzf84_J4QTvCD_Fq0CwA-26" value="HF patients with Alzheimer&#39;s dementia (AD) have worse outcomes than patients without AD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="108.75" y="110" width="151.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
