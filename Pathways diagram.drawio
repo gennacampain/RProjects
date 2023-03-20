@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T18:51:06.938Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AOwm05aM_319gl5X5hH_" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T17:38:42.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OLoQ6dk1ro79_DFRZK6t" version="21.0.8" type="github">
   <diagram name="Page-1" id="kJNti4fZGHZfdIK_VgVA">
-    <mxGraphModel dx="1004" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="867" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="qr7iuRNXmF8RHVcq-CUx-11" value="dementia" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="635" y="270" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qr7iuRNXmF8RHVcq-CUx-12" value="mild cognitive impairment" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="qr7iuRNXmF8RHVcq-CUx-12" value="cognitive decline" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="625" y="390" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qr7iuRNXmF8RHVcq-CUx-13" value="Alzheimer&#39;s" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -151,7 +151,7 @@
             <mxPoint x="210" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qr7iuRNXmF8RHVcq-CUx-45" value="Brain health&lt;br&gt;&amp;nbsp;and &lt;br&gt;performance" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="qr7iuRNXmF8RHVcq-CUx-45" value="Economic impact" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="370" y="410" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qr7iuRNXmF8RHVcq-CUx-46" value="social engagement" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -321,6 +321,21 @@
             <mxPoint x="306" y="311" as="sourcePoint" />
             <mxPoint x="380" y="274" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tC7V-89haxeQrOxIM_ar-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="235" y="720" width="20" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="tC7V-89haxeQrOxIM_ar-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="125" y="440" width="20" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="tC7V-89haxeQrOxIM_ar-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="445" y="200" width="20" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="tC7V-89haxeQrOxIM_ar-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="505" y="240" width="20" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="tC7V-89haxeQrOxIM_ar-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="685" y="322" width="20" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
