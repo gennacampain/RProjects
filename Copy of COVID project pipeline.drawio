@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T20:29:05.978Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jsG1BE85PBOa1faWffsX" version="21.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-09T20:36:06.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="R4rtbCcid_O79NkQUZdZ" version="21.2.3" type="github" pages="2">
   <diagram name="Page-1" id="aFJhFqFk9B--9QyLlLoq">
     <mxGraphModel dx="3290" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -218,10 +218,10 @@
           <mxGeometry x="-1006" y="201" width="150" height="81" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-83" value="&lt;font color=&quot;#000000&quot;&gt;Does not enroll following semester&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1295" y="674" width="233.74" height="60" as="geometry" />
+          <mxGeometry x="-1321.6" y="674" width="233.74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-84" value="&lt;font color=&quot;#000000&quot;&gt;Completes a degree or upward transfers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1305" y="43" width="233.74" height="60" as="geometry" />
+          <mxGeometry x="-1323" y="20" width="233.74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-85" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;6%&lt;br style=&quot;font-size: 16px;&quot;&gt;9,038&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1375" y="103" width="70" height="44" as="geometry" />
@@ -230,7 +230,7 @@
           <mxGeometry x="-1225" y="118" width="70" height="45.75" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-87" value="&lt;font color=&quot;#000000&quot;&gt;Fall 2018&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1695" width="130" height="60" as="geometry" />
+          <mxGeometry x="-1601.6" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-90" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;33%&lt;br style=&quot;font-size: 16px;&quot;&gt;73,326&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1523.85" y="537" width="70" height="50" as="geometry" />
@@ -266,10 +266,10 @@
           <mxGeometry x="-163" y="202" width="150" height="79" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-116" value="&lt;font color=&quot;#000000&quot;&gt;Does not enroll following semester&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-444.1" y="683" width="233.74" height="60" as="geometry" />
+          <mxGeometry x="-475.87" y="674" width="233.74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-117" value="&lt;font color=&quot;#000000&quot;&gt;Completes a degree or upward transfers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-437.9" y="43" width="217.9" height="60" as="geometry" />
+          <mxGeometry x="-475.87" y="20" width="217.9" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-118" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;6%&lt;br style=&quot;font-size: 16px;&quot;&gt;8,578&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-530" y="103" width="70" height="44" as="geometry" />
@@ -278,7 +278,7 @@
           <mxGeometry x="-386.5999999999999" y="117" width="70" height="45.75" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-120" value="&lt;font color=&quot;#000000&quot;&gt;Fall 2019&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-850" width="130" height="60" as="geometry" />
+          <mxGeometry x="-760" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-123" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;32%&lt;br style=&quot;font-size: 16px;&quot;&gt;71,070&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-673.55" y="537" width="70" height="50" as="geometry" />
@@ -308,16 +308,16 @@
           <mxGeometry x="240" y="146" width="150" height="255" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-149" value="&lt;font color=&quot;#000000&quot;&gt;Does not enroll following semester&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="403" y="683" width="233.74" height="60" as="geometry" />
+          <mxGeometry x="361.3" y="674" width="233.74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-150" value="&lt;font color=&quot;#000000&quot;&gt;Completes a degree or upward transfers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="390" y="43" width="233.74" height="60" as="geometry" />
+          <mxGeometry x="361.3" y="20" width="233.74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-151" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;6%&lt;br style=&quot;font-size: 16px;&quot;&gt;8,541&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="323.99999999999994" y="103" width="70" height="44" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-153" value="&lt;font color=&quot;#000000&quot;&gt;Fall 2020&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry y="3" width="130" height="60" as="geometry" />
+          <mxGeometry x="93" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX7mnTqwUvaXNK33T4vt-156" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;35%&lt;br style=&quot;font-size: 16px;&quot;&gt;66,914&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="170.97000000000003" y="539" width="70" height="50" as="geometry" />
@@ -572,10 +572,10 @@
           <mxGeometry x="-1011" y="1318" width="150" height="89" as="geometry" />
         </mxCell>
         <mxCell id="iHA44lqau1iE4GJ8Keya-7" value="&lt;font color=&quot;#000000&quot;&gt;Does not enroll following semester&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1296" y="1803" width="233.74" height="60" as="geometry" />
+          <mxGeometry x="-1325" y="1790" width="233.74" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iHA44lqau1iE4GJ8Keya-8" value="&lt;font color=&quot;#000000&quot;&gt;Completes a degree or upward transfers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1296" y="1140" width="233.74" height="60" as="geometry" />
+          <mxGeometry x="-1332.34" y="1140" width="233.74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHA44lqau1iE4GJ8Keya-9" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;5%&lt;br style=&quot;font-size: 16px;&quot;&gt;8,171&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1379" y="1220.99" width="70" height="44" as="geometry" />
@@ -584,7 +584,7 @@
           <mxGeometry x="-1230" y="1233.25" width="70" height="45.75" as="geometry" />
         </mxCell>
         <mxCell id="iHA44lqau1iE4GJ8Keya-11" value="&lt;font color=&quot;#000000&quot;&gt;Pre-COVID average&lt;br&gt;(2015 - 2017)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=20;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1691.6" y="1120" width="188" height="60" as="geometry" />
+          <mxGeometry x="-1608" y="1120" width="188" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHA44lqau1iE4GJ8Keya-12" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px;&quot;&gt;32%&lt;br style=&quot;font-size: 16px;&quot;&gt;70,323&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;strokeColor=none;fontSize=16;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1527.03" y="1658" width="70" height="50" as="geometry" />
